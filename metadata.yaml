@@ -1,0 +1,34 @@
+_repo: Six-Little-Bunkers-at-Mammy-June-s_18461
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Georgia -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+title: Six Little Bunkers at Mammy June's
+url: http://www.gutenberg.org/ebooks/18461
